@@ -1,1 +1,4 @@
-subtraction
+a = 10
+b = 11
+c = 12
+d = a+b+c
